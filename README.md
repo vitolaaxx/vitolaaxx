@@ -1,6 +1,7 @@
 VITINHO
 <!--
-**vitolaaxx/vitolaaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![image](https://github.com/user-attachments/assets/abc42835-edee-418d-9e0c-dad6912124d2)
+vitolaaxx/vitolaaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
